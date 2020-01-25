@@ -114,7 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Begin Drive.vi" Type="VI" URL="../Drive/Begin Drive.vi"/>
-		<Item Name="Begin joystick.vi" Type="VI" URL="../../../Programming/2019 Robot/Robot Project/Begin joystick.vi"/>
+		<Item Name="Begin joystick.vi" Type="VI" URL="../Joystick/Begin joystick.vi"/>
 		<Item Name="Finished Drive.vi" Type="VI" URL="../Drive/Finished Drive.vi"/>
 		<Item Name="finished joystick.vi" Type="VI" URL="../Joystick/finished joystick.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
