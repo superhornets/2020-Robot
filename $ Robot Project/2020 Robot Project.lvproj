@@ -115,6 +115,8 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Begin Drive.vi" Type="VI" URL="../Drive/Begin Drive.vi"/>
 		<Item Name="Begin joystick.vi" Type="VI" URL="../Joystick/Begin joystick.vi"/>
+		<Item Name="Begin Shooter.vi" Type="VI" URL="../Shooter/Begin Shooter.vi"/>
+		<Item Name="Finish Shooter.vi" Type="VI" URL="../Shooter/Finish Shooter.vi"/>
 		<Item Name="Finished Drive.vi" Type="VI" URL="../Drive/Finished Drive.vi"/>
 		<Item Name="finished joystick.vi" Type="VI" URL="../Joystick/finished joystick.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
