@@ -125,6 +125,7 @@ AddOutputFilter chunkFilter
 		<Item Name="teleOp dashboard.vi" Type="VI" URL="../dash board/teleOp dashboard.vi"/>
 		<Item Name="TeleOp drive.vi" Type="VI" URL="../Drive/TeleOp drive.vi"/>
 		<Item Name="Teleop Loader.vi" Type="VI" URL="../Loader/Teleop Loader.vi"/>
+		<Item Name="Teleop Shooter.vi" Type="VI" URL="../Teleop Shooter.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
