@@ -117,10 +117,12 @@ AddOutputFilter chunkFilter
 		<Item Name="Begin joystick.vi" Type="VI" URL="../Joystick/Begin joystick.vi"/>
 		<Item Name="Begin Loader.vi" Type="VI" URL="../Loader/Begin Loader.vi"/>
 		<Item Name="Begin Shooter.vi" Type="VI" URL="../Shooter/Begin Shooter.vi"/>
+		<Item Name="Climber.vi" Type="VI" URL="../Climber/Climber.vi"/>
 		<Item Name="Finish Loader.vi" Type="VI" URL="../Loader/Finish Loader.vi"/>
 		<Item Name="Finish Shooter.vi" Type="VI" URL="../Shooter/Finish Shooter.vi"/>
 		<Item Name="Finished Drive.vi" Type="VI" URL="../Drive/Finished Drive.vi"/>
 		<Item Name="finished joystick.vi" Type="VI" URL="../Joystick/finished joystick.vi"/>
+		<Item Name="Open Climber.vi" Type="VI" URL="../Climber/Open Climber.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="teleOp dashboard.vi" Type="VI" URL="../dash board/teleOp dashboard.vi"/>
 		<Item Name="TeleOp drive.vi" Type="VI" URL="../Drive/TeleOp drive.vi"/>
