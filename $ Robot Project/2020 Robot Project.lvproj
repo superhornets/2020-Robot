@@ -129,6 +129,7 @@ AddOutputFilter chunkFilter
 		<Item Name="TeleOp drive.vi" Type="VI" URL="../Drive/TeleOp drive.vi"/>
 		<Item Name="Teleop Loader.vi" Type="VI" URL="../Loader/Teleop Loader.vi"/>
 		<Item Name="Finish Climber.vi" Type="VI" URL="../Climber/Finish Climber.vi"/>
+		<Item Name="Ball stop.vi" Type="VI" URL="../Loader/Ball stop.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
