@@ -594,6 +594,7 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Teleop Shooter.vi" Type="VI" URL="../Teleop Shooter.vi"/>
+			<Item Name="Counter.vi" Type="VI" URL="../Counter.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
