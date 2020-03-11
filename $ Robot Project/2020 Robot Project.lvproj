@@ -133,6 +133,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Begin Intake.vi" Type="VI" URL="../Intake/Begin Intake.vi"/>
 		<Item Name="Finish Intake.vi" Type="VI" URL="../Intake/Finish Intake.vi"/>
 		<Item Name="Ball stop.vi" Type="VI" URL="../Loader/Ball stop.vi"/>
+		<Item Name="5 Ball Limit global.vi" Type="VI" URL="../5 Ball Limit global.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
